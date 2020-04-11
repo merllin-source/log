@@ -1,3 +1,6 @@
+
+E:\phpstudy_pro\WWW\log
+
 git add .
 git commit -m "..."
 git remote add origin git@github.com:merllin-source/log.git
