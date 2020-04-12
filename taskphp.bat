@@ -1,9 +1,9 @@
 e:
 cd phpstudy_pro\www\log\
 
-git config --global user.name "bryan sun"
-git config --global user.email "hitsjt@gmail.com"
-
+git config --global user.name "merllin-source"
+git config --global user.email "zxbctgu@qq.com"
+git init
 git add .
 git commit -m "..."
 
